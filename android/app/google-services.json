@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "451692864119",
+    "project_id": "mudratechnologies-a96c0",
+    "storage_bucket": "mudratechnologies-a96c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451692864119:android:6cda4b879b6e918b309c72",
+        "android_client_info": {
+          "package_name": "com.dweighadmin.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhACaxFoHx54qtUIZlT6D4HDIumvTU8Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451692864119:android:61242ab94835b67c309c72",
+        "android_client_info": {
+          "package_name": "com.mudratechnologies.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhACaxFoHx54qtUIZlT6D4HDIumvTU8Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
